@@ -1,6 +1,6 @@
 Project Title : True Caller
 
-Summary: An Android App... Its recognize the Phone Number....User Can See the Contact Name Though the Name is not listed in users contacts..
+Summary: An Android App... Its recognize the Phone Number....User Can See the Contact Name Though the Number(s) is/are not listed in users contacts..
 
 
 
