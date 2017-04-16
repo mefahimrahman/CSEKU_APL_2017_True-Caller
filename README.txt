@@ -1,21 +1,22 @@
 Project Title : True Caller
 
-Board
+Summary: An Android App... Its recognize the Phone Number....User Can See the Contact Name Though the Name is not listed in users contacts..
+
+
 
 Project Description:
 	
-		Programming Language:  Java & PHP
+		Programming Language Used:  Java & PHP
 	
-		Database            :  Mysql
+		Database  Used: 		    Mysql & SqLite
 
 
- & SqLite
 
 Developed By: 
 		
-		Arjuman Sreashtho (160214) 
+		1. Arjuman Sreashtho (160214) 
 		
-		A. K. M. Fahim Rahman (160215) 
+		2. A. K. M. Fahim Rahman (160215) 
 		
 
 
